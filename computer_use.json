@@ -1,0 +1,18 @@
+{
+"K*UT": "{#Super_L(x)}",
+"KPWR*": "{#Super_L(c)}",
+"P*FT": "{#Super_L(v)}",
+"PW*F": "{#BackSpace}",
+"PW*R": "{#Delete}",
+"S*F": "{#Super_L(s)}",
+"STP-B": "{#Shift_L(Down)}",
+"STP-G": "{#Shift_L(Right)}",
+"STP-P": "{#Shift_L(Up)}",
+"STP-R": "{#Shift_L(Left)}",
+"STPH-B": "{#Down}",
+"STPH-G": "{#Right}",
+"STPH-P": "{#Up}",
+"STPH-R": "{#Left}",
+"TKPH": "{#Super_L(z)}",
+"TKPH*": "{#Super_L(Shift_L(z))}"
+}
