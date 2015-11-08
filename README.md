@@ -17,10 +17,10 @@ Plover dictionaries backported to [Plover](https://github.com/openstenoproject/p
   * `TKPH` => `ND` (sort of) for `⌘z` to u**nd**o
   * `TKPH*` for `⌘⇧z` to redo
 * Plover commands:
-  * SUSPEND
-  * TOGGLE
-  * RESUME
-  * ADD_TRANSLATION
+  * `PHROF` (**Pl**over **of**f) for SUSPEND
+  * `PHROLG` (**Pl**over tog**gl**e) for TOGGLE
+  * `PHROPB` (**Pl**over **on**) for RESUME
+  * `TKUPT` (Plover **d**ictionary **up**da**t**e) for ADD_TRANSLATION
 * Missing punctuation:
   * >
   * <
